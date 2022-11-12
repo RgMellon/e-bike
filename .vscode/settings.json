@@ -1,0 +1,32 @@
+{
+    "editor.formatOnSave": false,
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    },
+    "[javascript]": {
+      "editor.codeActionsOnSave": {
+        "source.fixAllOnSave": true
+      }
+    },
+    "[javascriptreact]": {
+      "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+      }
+    },
+    "[typescript]": {
+      "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+      }
+    },
+    "[typescriptreact]": {
+      "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+      }
+    },
+    "editor.tabSize": 2,
+    "editor.renderLineHighlight": "gutter",
+    "terminal.integrated.fontSize": 14,
+    "emmet.syntaxProfiles": {
+      "javascript": "jsx"
+    },
+}
